@@ -1,0 +1,6 @@
+psycopg2-binary==2.9.9
+faker==24.11.0
+duckdb==0.10.3
+pandas==2.2.2
+pyarrow==16.1.0
+python-dotenv==1.0.1

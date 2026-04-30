@@ -1,0 +1,11 @@
+CREATE INDEX idx_participant_hackathon ON participant(hackathon_id);
+CREATE INDEX idx_team_hackathon        ON team(hackathon_id);
+CREATE INDEX idx_team_track            ON team(track_id);
+CREATE INDEX idx_team_participant_team ON team_participant(team_id);
+CREATE INDEX idx_team_mentor_mentor    ON team_mentor(mentor_id);
+CREATE INDEX idx_project_team          ON project(team_id);
+CREATE INDEX idx_project_status        ON project(current_status);
+CREATE INDEX idx_history_project       ON project_status_history(project_id);
+CREATE INDEX idx_history_status_time   ON project_status_history(status, changed_at);
+CREATE INDEX idx_evaluation_project    ON evaluation(project_id);
+CREATE INDEX idx_evaluation_judge      ON evaluation(judge_id);

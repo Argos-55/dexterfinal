@@ -1,0 +1,41 @@
+id,full_name,email,expertise,company,max_teams
+1,William Lee,zpoole@example.net,"{""Android""}",Anderson-Fields,2
+2,Carrie Strong,samuelgarcia@example.org,"{""Computer Vision"",""DevOps"",""iOS""}","Wilson, Ray and Myers",2
+3,Sydney Hood,stacyharris@example.org,"{""Computer Vision"",""Rust"",""Go""}",Kim Ltd,5
+4,Brittany Montgomery,armstronganthony@example.net,"{""Rust""}",Lucero Ltd,3
+5,Heather Allen,kennethnichols@example.org,"{""ML"",""NLP""}","Deleon, Hartman and Townsend",5
+6,Denise Donovan,littlebeth@example.org,"{""DevOps"",""ML"",""iOS""}",Stevens PLC,4
+7,Charles Green,christophersnyder@example.com,"{""Data Engineering""}",Myers Group,3
+8,Jennifer Tucker,clarkrobert@example.com,"{""Python""}","Odonnell, Stokes and White",2
+9,Christopher Bradley,wilsonmatthew@example.com,"{""Data Engineering"",""HealthTech"",""React"",""iOS""}",Cooley-Greene,3
+10,Joseph Scott,leeanthony@example.org,"{""Blockchain"",""Go"",""DevOps""}","Hunt, Hernandez and Camacho",3
+11,Daniel Murphy,christopherholt@example.org,"{""ML"",""Blockchain""}",Hill-Gonzalez,4
+12,Michael Pearson,fmcgee@example.com,"{""React"",""ML""}","Potts, Nielsen and Wright",2
+13,Ryan Love,ygarcia@example.net,"{""DevOps"",""Data Engineering"",""React"",""iOS""}",Martin-Harris,2
+14,Jessica Griffin,lisa91@example.net,"{""React"",""Blockchain"",""NLP""}",Patterson-Bradley,5
+15,Mark Brown,pamelarubio@example.com,"{""Android"",""ML"",""DevOps""}","Ortiz, Munoz and Wiley",3
+16,Kerry Sanders,whitemarcus@example.org,"{""iOS""}",Sanchez-Lewis,2
+17,Charles Edwards,floresalex@example.com,"{""Android"",""Rust""}",Marshall LLC,5
+18,Kristina Cruz,alisongarcia@example.com,"{""UX Design"",""DevOps"",""iOS""}","Franklin, Ware and Heath",3
+19,Steven Fisher,ustewart@example.org,"{""Computer Vision"",""Android"",""Go""}",Williams Group,3
+20,Dr. Jason Martinez Jr.,brittany39@example.org,"{""Android""}",Smith-Logan,3
+21,Abigail Murray,meaganpowell@example.net,"{""NLP"",""HealthTech""}","Williams, Newman and Jones",5
+22,Robert Cummings,logan56@example.org,"{""Finance"",""Android"",""ML""}","Hampton, Snyder and Williams",4
+23,William Snyder,cameronsharon@example.org,"{""Rust"",""HealthTech"",""Android"",""iOS""}",Walker Inc,5
+24,Wyatt Callahan,fperez@example.org,"{""ML""}","Barrera, Wood and Leach",2
+25,Taylor Parrish MD,rodriguezstacey@example.org,"{""Finance"",""HealthTech"",""ML""}",Murphy-Salazar,3
+26,Debra Jackson,brandywilson@example.com,"{""NLP"",""DevOps"",""React""}",Mullins Group,2
+27,Mary Boyd,beckystanley@example.com,"{""Finance""}",Barton-Webb,2
+28,Ralph Dawson,angelica33@example.net,"{""Computer Vision"",""UX Design"",""Blockchain"",""Python""}",Jones Group,4
+29,Adam Robinson,glopez@example.com,"{""DevOps"",""Computer Vision"",""ML"",""Android""}",Cervantes PLC,5
+30,Emily Blackburn,grios@example.org,"{""HealthTech"",""Computer Vision""}",Robinson LLC,4
+31,Jesse Oliver,kimberlylopez@example.com,"{""Rust"",""Data Engineering""}",Martin-Parker,2
+32,Mariah Thomas,mcgeejohn@example.com,"{""Android"",""Data Engineering"",""Python"",""DevOps""}",Adams Group,3
+33,Jodi Baker,gomezjason@example.com,"{""Computer Vision"",""Data Engineering""}","Jordan, Cook and Alexander",3
+34,Anthony Reyes,mlee@example.com,"{""ML"",""HealthTech"",""UX Design"",""Computer Vision""}",Wheeler PLC,3
+35,Kelly Rodriguez,lucassusan@example.org,"{""Android"",""Python"",""Blockchain"",""Rust""}",Brown Inc,3
+36,Cynthia Patel,jeremy96@example.com,"{""iOS""}",Garcia-Gross,4
+37,Debra Harris,michaelroberts@example.net,"{""Python"",""DevOps""}",Gross-Davis,3
+38,Melody Woods,melissa32@example.com,"{""Go"",""Rust"",""Finance""}","Jones, Lopez and Yoder",2
+39,Adam Wells,andrew41@example.org,"{""DevOps""}","Wolf, Smith and Bell",4
+40,Aaron Marks,brodriguez@example.net,"{""NLP""}","Mooney, Conley and Fox",4
