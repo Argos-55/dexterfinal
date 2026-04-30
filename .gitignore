@@ -1,0 +1,4 @@
+analytics/venv/
+venv/
+.venv/
+__pycache__/
